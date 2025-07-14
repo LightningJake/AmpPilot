@@ -1,0 +1,289 @@
+EV Routing FAQs
+What is the average EV range?
+Most EVs range from 250-500 km on a full charge depending on model and driving conditions.
+How can I find charging stations on the route?
+You can use AmpPilot for the optimized ev charging routes.
+Do I need to stop for charging on a 300km trip?
+If your car range is below 300km, plan at least one optimized route for the charging stop and charge your vehicle.
+Charging Station Guide - 
+Fast vs Slow Charging
+Fast chargers (50kW+) can charge your EV in 30-60 mins. Slow chargers take 4-8 hours.
+Common Connector Types
+- CCS2: Used in most modern EVs (Tata Nexon, Hyundai etc.)
+- CHAdeMO: Used in older Japanese EVs.
+Driving Style vs Range
+How driving style affects range
+- Aggressive driving -> -30% range
+- Eco driving -> +20% range
+- Moderate driving -> Default rated range
+Terrain and Battery
+Uphill driving - Increases energy usage and reduces range.
+Downhill driving - Uses regenerative braking to save energy.
+Flat terrain - Provides most efficient energy usage.
+
+AmpPilot AI Assistant Knowledge Base
+
+PROJECT OVERVIEW
+================
+AmpPilot is your AI-powered electric vehicle navigation companion that ensures you never run out of battery during your journey. We provide smart charging stop recommendations, find better alternatives nearby, and offer emergency assistance when needed.
+
+CORE FEATURES - WHAT WE DO FOR YOU
+===================================
+
+1. Smart Route Planning
+-----------------------
+- What it does: Plans your EV route with strategic charging stops based on your current battery level
+- How it helps you: Prevents range anxiety by ensuring you never run out of battery
+- What you need: Your destination and current battery range in kilometers
+- What you get: Complete route with optimal charging stops and arrival battery predictions
+
+2. Intelligent Charging Station Recommendations
+-----------------------------------------------
+- What it does: Predicts how busy charging stations will be when you arrive
+- How it helps you: Avoid crowded stations and reduce waiting time
+- What you see: Occupancy predictions for each recommended charging station
+- Timing: Uses India Standard Time (IST) for accurate predictions
+
+3. Geofencing Technology (Smart Alternatives)
+---------------------------------------------
+- What it does: Automatically finds better charging stations within 3km of your planned stops
+- How it helps you: Get higher-rated stations with minimal detour
+- When it activates: When we find stations with significantly better ratings nearby
+- Your choice: You can accept or decline the better alternative
+
+4. Emergency Breakdown Assistance
+---------------------------------
+- What it does: Instantly finds nearby car repair shops and towing services
+- How it helps you: Get immediate help when your car breaks down
+- Coverage area: Searches within 10km of your location
+- Services found: Both repair garages and towing services with distances and ratings
+
+HOW TO USE AMPILOT
+==================
+
+Planning Your EV Journey
+------------------------
+1. Enter your destination - Use the search box with auto-suggestions for Indian locations
+2. Enter your current battery range - How many kilometers your EV can currently travel
+3. Click "Start Smart Navigation" - We'll get your location and plan the optimal route
+4. Review charging stops - See where and when to charge along your route
+5. Accept or decline better alternatives - When we find superior charging stations nearby
+
+Understanding Your Route Information
+-----------------------------------
+- Charging stops: Essential stops to recharge your battery
+- Battery level on arrival: How much battery you'll have when reaching each stop
+- Station ratings: User ratings to help you choose quality charging stations
+- Occupancy predictions: How busy the station will likely be when you arrive
+- Distance information: How far each stop is from your starting point
+
+Using Geofencing Notifications
+------------------------------
+- When they appear: When we find better charging stations within 3km
+- What you see: Comparison between your planned station and the better alternative
+- Benefits shown: Higher ratings, distance detour, and improvement details
+- Your options: Accept the better station (route updates automatically) or keep your current plan
+
+Emergency Breakdown Help
+------------------------
+1. Click "Car Breakdown" button for immediate assistance
+2. Allow location access - We need your exact location to find nearby help
+3. Review service options - See nearby garages and tow services with distances
+4. Filter services - Choose to see only garages, only tow services, or both
+5. Contact services - Get directions and contact information for each service
+
+UNDERSTANDING THE INTERFACE
+============================
+
+Main Control Panel
+------------------
+- Minimizes automatically when map is active to give you better view
+- Tap to expand - Click the minimized bar to access full controls again
+- Emergency button - Always accessible for breakdown situations
+- New route button - Start planning a different journey
+
+Map Features
+------------
+- Blue dot: Your current location
+- Green dots: Recommended charging stations
+- Red dot: Your final destination
+- Blue route line: Your planned driving route
+- Info windows: Click any marker for detailed information
+
+Breakdown Mode
+--------------
+- Blue markers: Car repair garages
+- Yellow markers: Towing services
+- Red circle: Your breakdown location
+- Filter toggles: Show/hide different service types
+
+COMMON USER SCENARIOS & SOLUTIONS
+==================================
+
+"I'm planning a long trip"
+--------------------------
+- Enter your destination and current battery range
+- We'll automatically place charging stops before your battery depletes
+- Review each stop's details including arrival battery level and station ratings
+- Accept better alternatives when offered for improved experience
+
+"I want to avoid crowded charging stations"
+------------------------------------------
+- Our AI predicts occupancy levels for each station
+- Look for stations with lower predicted occupancy percentages
+- Consider geofencing alternatives which often have better availability
+- Plan your charging during off-peak hours when possible
+
+"I'm not sure about a charging station"
+--------------------------------------
+- Click on any charging station marker for detailed information
+- Review ratings, address, and predicted occupancy
+- Use "View on Google Maps" for photos and more reviews
+- Accept geofencing suggestions for better-rated alternatives
+
+"I got a better station suggestion"
+----------------------------------
+- Read the comparison showing current vs. better station
+- Check the rating improvement and detour distance
+- Accept if benefits outweigh the small detour
+- Route automatically updates with the new station
+
+"My car broke down"
+------------------
+- Click the red "Car Breakdown" emergency button immediately
+- Allow location access for accurate service finding
+- Filter between garages (for repairs) and tow services (for towing)
+- Contact the nearest appropriate service for your situation
+
+"I want to change my destination"
+--------------------------------
+- Click "New Route" to start fresh planning
+- Enter your new destination and current battery range
+- Previous route information will be cleared
+- New optimal route will be calculated
+
+"The app is asking for location permission"
+------------------------------------------
+- Why we need it: To find your exact location for accurate route planning
+- When we ask: During route planning and breakdown assistance
+- What we do: Calculate distances and find nearby services
+- Privacy: We only use location for navigation, never store or share it
+
+TROUBLESHOOTING COMMON ISSUES
+==============================
+
+"Location not working"
+---------------------
+- Check browser permissions: Allow location access in your browser settings
+- Try again: Click "Start Smart Navigation" again after granting permission
+- Alternative: Manually enter your starting location in the destination field
+- Timeout issues: If it takes too long, try refreshing and starting over
+
+"No charging stations found"
+---------------------------
+- Remote areas: Some locations may have limited charging infrastructure
+- Expand search: Try a nearby larger city as an intermediate destination
+- Check range: Ensure your entered battery range is realistic
+- Route alternatives: Consider different routes through areas with more stations
+
+"Geofencing notification not appearing"
+--------------------------------------
+- Station quality: We only suggest significantly better alternatives
+- Distance limits: Better stations must be within 3km of your planned stop
+- Rating threshold: Alternatives need meaningfully higher ratings
+- Already optimal: Your planned station may already be the best option
+
+"Breakdown services too far"
+---------------------------
+- Remote location: Some areas have limited service coverage
+- Expand search: Try contacting services up to 10km away
+- Emergency services: Call local emergency numbers if situation is critical
+- Towing options: Even distant tow services may be willing to travel
+
+"Route seems inefficient"
+------------------------
+- Battery constraints: Routes prioritize ensuring you don't run out of battery
+- Charging infrastructure: Limited by actual charging station locations
+- Safety buffer: We include safety margins to prevent stranding
+- Optimization: Route is optimized for your specific battery range
+
+BEST PRACTICES FOR USERS
+=========================
+
+Before Starting Your Trip
+-------------------------
+- Check battery level: Ensure you enter accurate current range
+- Plan for delays: Consider traffic and charging time in your schedule
+- Research backup: Know alternative routes if preferred stations are busy
+- Emergency contacts: Have backup towing/repair service numbers ready
+
+During Your Journey
+-------------------
+- Monitor battery: Keep an eye on actual vs. predicted consumption
+- Accept good alternatives: Consider geofencing suggestions for better experience
+- Stay flexible: Be prepared to adjust if stations are busier than predicted
+- Charge fully: Take advantage of charging stops to maximize range
+
+For Optimal Experience
+---------------------
+- Use accurate data: Enter precise battery range for best recommendations
+- Enable location: Always allow location access for accurate routing
+- Check ratings: Prefer higher-rated charging stations when possible
+- Plan margins: Don't cut battery levels too close, leave safety buffer
+
+Emergency Preparedness
+---------------------
+- Save contacts: Note down repair shop and towing service numbers
+- Know your location: Be able to describe where you are if calling for help
+- Have backup power: Keep phone charged for emergency communications
+- Stay safe: Move to safe location if breakdown occurs on busy road
+
+GETTING HELP
+=============
+
+Chat Assistant (That's Me!)
+---------------------------
+- Available 24/7: Ask questions anytime about EV travel and AmpPilot features
+- Route guidance: Get help planning optimal routes and understanding recommendations
+- Technical support: Assistance with app features and troubleshooting
+- EV advice: General electric vehicle questions and best practices
+
+Emergency Situations
+--------------------
+- Car breakdown: Use our breakdown assistance feature for immediate help
+- Critical issues: Call local emergency services if safety is at risk
+- Roadside assistance: Contact your insurance or car manufacturer's roadside help
+- Backup planning: Ask me for alternative routes or charging strategies
+
+SPECIFIC APP FEATURES
+======================
+
+Geofencing Accept/Decline Feature
+--------------------------------
+When you see a geofencing notification:
+- The app pauses and shows you a popup comparison
+- You see your current planned station vs. the better alternative
+- Compare ratings, distance detour, and benefits
+- Click "Accept" to automatically update your route
+- Click "Decline" to keep your original plan
+- Route updates happen instantly with visual confirmation
+- You get a success message confirming the change
+
+Auto-Minimizing Interface
+------------------------
+- Controls automatically shrink when map is active
+- Gives you full view of your route and charging stations
+- Tap the minimized bar to expand controls again
+- Emergency breakdown button remains always visible
+- New route planning always available
+
+Breakdown Service Filtering
+--------------------------
+- Filter by service type: Garages only, Tow services only, or Both
+- Services sorted by distance from your location
+- Each service shows distance in kilometers
+- Direct links to Google Maps for navigation
+- Contact information when available
+- Real-time filtering updates the map markers
+
+Remember: AmpPilot is designed to make EV travel stress-free. We handle the complex planning so you can focus on enjoying your journey. When in doubt, accept our suggestions - they're optimized for your best travel experience!

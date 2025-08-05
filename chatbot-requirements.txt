@@ -1,0 +1,18 @@
+# Requirements for chatbot.py (no version pinning for better compatibility)
+fastapi
+uvicorn
+pydantic
+requests
+python-multipart
+numpy
+
+# AI/ML Libraries
+faiss-cpu
+ollama
+llama-index-core
+llama-index-embeddings-huggingface
+llama-index-vector-stores-faiss
+
+# Additional dependencies that may be needed
+transformers
+sentence-transformers

@@ -1,0 +1,134 @@
+[
+  {
+    "station_id": "270e7a07-4362-45fb-943e-5b8caca96a5c",
+    "name": "Jaimeet Station",
+    "location": {
+      "lat": 19.207236,
+      "lng": 73.089587
+    },
+    "address": "Laxmi Sagar, Nandivali Rd, Patilwadi, SBI Colony, Dombivli East, Dombivli, Maharashtra 421201, India",
+    "station_type": "Public",
+    "charger_types": [
+      "CCS",
+      "Type 2"
+    ],
+    "power_output_kw": 50.0,
+    "number_of_charging_points": 2,
+    "operating_hours": "24/7",
+    "amenities": [
+      "WiFi"
+    ],
+    "pricing_info": "",
+    "owner_info": {
+      "name": "Jaimeet",
+      "email": "j@gmail.com",
+      "phone": "9999999999",
+      "business_name": "",
+      "business_type": "Individual"
+    },
+    "additional_notes": "",
+    "submission_date": "2025-07-29T12:11:46.062232+05:30",
+    "status": "active",
+    "rating": 4.0,
+    "user_ratings_total": 1
+  },
+  {
+    "station_id": "1dee0e8c-5981-4682-8f7c-4265df6d1f45",
+    "name": "Pune OTW Station",
+    "location": {
+      "lat": 19.153304,
+      "lng": 73.059338
+    },
+    "address": "1, Kalyan - Shilphata Rd, opp. Kokan King Hotel, Padle Gaon, Dombivli, Thane, Maharashtra 421021, India",
+    "station_type": "Public",
+    "charger_types": [
+      "CCS",
+      "Type 2"
+    ],
+    "power_output_kw": 50.0,
+    "number_of_charging_points": 1,
+    "operating_hours": "24/7",
+    "amenities": [
+      "WiFi"
+    ],
+    "pricing_info": "",
+    "owner_info": {
+      "name": "Jaimeet",
+      "email": "j@gmail.com",
+      "phone": "9999999999",
+      "business_name": "",
+      "business_type": "Individual"
+    },
+    "additional_notes": "",
+    "submission_date": "2025-07-29T12:14:47.596644+05:30",
+    "status": "active",
+    "rating": 4.0,
+    "user_ratings_total": 1
+  },
+  {
+    "station_id": "563f8dd8-cc26-4755-b4da-bc5249f60843",
+    "name": "Arya2511",
+    "location": {
+      "lat": 19.209275,
+      "lng": 72.95174
+    },
+    "address": "PN-61, near Bus stop, Lokmanya nagar, Savarkar Nagar, ठाणे वेस्ट, ठाणे, महाराष्ट्र 400606, India",
+    "station_type": "Public",
+    "charger_types": [
+      "DC Fast (25-50kW)"
+    ],
+    "power_output_kw": 3.0,
+    "number_of_charging_points": 1,
+    "operating_hours": "24/7",
+    "amenities": [
+      "WiFi",
+      "Covered Parking"
+    ],
+    "pricing_info": "",
+    "owner_info": {
+      "name": "Arya",
+      "email": "a@gmail.com",
+      "phone": "9999999998",
+      "business_name": "",
+      "business_type": "Individual"
+    },
+    "additional_notes": "",
+    "submission_date": "2025-07-31T21:54:37.382085+05:30",
+    "status": "active",
+    "rating": 4.0,
+    "user_ratings_total": 1
+  },
+  {
+    "station_id": "cd8b5201-3ff7-4da2-b5b8-70914b2efe59",
+    "name": "Jaimeet's Station",
+    "location": {
+      "lat": 19.207206,
+      "lng": 73.089162
+    },
+    "address": "634Q+XM6, Nandivali Rd, Sunil Nagar, Dombivli East, Dombivli, Maharashtra 421201, India",
+    "station_type": "Public",
+    "charger_types": [
+      "CCS",
+      "Type 2"
+    ],
+    "power_output_kw": 50.0,
+    "number_of_charging_points": 1,
+    "operating_hours": "24/7",
+    "amenities": [
+      "WiFi"
+    ],
+    "pricing_info": "",
+    "owner_info": {
+      "name": "Jaimeet",
+      "email": "j@gmail.com",
+      "phone": "9999999999",
+      "business_name": "",
+      "business_type": "Hotel"
+    },
+    "additional_notes": "",
+    "submission_date": "2025-08-01T20:50:25.825459+05:30",
+    "status": "active",
+    "rating": 4.0,
+    "user_ratings_total": 1
+  }
+]

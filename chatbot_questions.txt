@@ -1,0 +1,45 @@
+🔋 Battery & Range Intelligence
+What’s the best way to extend my EV battery life in Indian summers?
+
+How do I check the State of Health of my battery?
+
+What affects EV battery degradation the most?
+
+How much real-world range can I expect from a Tata Nexon EV in city traffic?
+
+⚡ Charging Station Discovery & Occupancy
+Are there any nearby charging stations open now?
+
+Which charging station near me has the lowest occupancy?
+
+Is it better to charge at night or early morning in Mumbai?
+
+Can you recommend a good charging station on my route from Pune to Nashik?
+
+🧠 AI Logic & Prediction
+How does AmpPilot predict charging station occupancy?
+
+Does it use weather and traffic in its predictions?
+
+What cities are supported for real-time predictions?
+
+🛠 Emergency & Support Services
+My EV broke down near Hyderabad. Can you help?
+
+Where can I find a towing service nearby?
+
+Is there a mechanic near Andheri for EV repair?
+
+📚 Knowledge Document QA (FAISS)
+What are the key highlights of the Maharashtra EV policy?
+
+Which EV brands are supported in India under government subsidies?
+
+What does BMS mean in an EV context?
+
+How many fast-charging stations are there in India as of 2024?
+
+🔍 Combos (Test Routing + Doc + ML)
+I'm planning a trip from Delhi to Agra. Where should I charge on the way?
+
+How can I avoid crowded EV stations during weekends in urban areas?

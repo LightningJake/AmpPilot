@@ -1,0 +1,26 @@
+Brand,Model,Body Type,Seating Capacity,Ex-Showroom Price Min (₹ Lakh),Ex-Showroom Price Max (₹ Lakh),Battery Capacity Min (kWh),Battery Capacity Max (kWh),ARAI-Claimed Range Min (km),ARAI-Claimed Range Max (km),Real-World Range (km),Power Min (bhp),Power Max (bhp),Drivetrain,Acceleration Min (0-100 km/h, s),Acceleration Max (0-100 km/h, s),Top Speed (km/h),DC Charge Time (min),NCAP Rating,Standard Airbags,ADAS,Infotainment Screen Size (inch),Panoramic Sunroof
+Tata,Tiago EV,Hatchback,5,7.99,11.14,19.2,24,250,315,187,60,74,FWD,13.3,13.3,120,57,4-Star (ICE),2,No,7,No
+MG,Comet EV,Hatchback,4,7.36,9.86,17.3,17.3,230,230,193,41,41,RWD,6.9,19.9,100,N/A,Not Tested,2,No,10.25,No
+Citroen,eC3,Hatchback,5,12.90,13.41,29.2,29.2,320,320,228,56,56,FWD,10.5,17.4,107,57,0-Star (Global),2,No,10.2,No
+Tata,Punch EV,SUV,5,9.99,14.44,25,35,315,421,229,81,121,FWD,9.5,9.5,140,56,5-Star (Bharat),6,No,10.25,Yes
+Tata,Tigor EV,Sedan,5,12.49,13.75,26,26,315,315,224,74,74,FWD,12.3,12.3,120,59,4-Star (Global),2,No,7,No
+Tata,Nexon EV,SUV,5,12.49,17.19,30,40.5,325,465,350,127,143,FWD,8.9,8.9,150,56,5-Star (ICE),6,No,12.3,Yes
+Mahindra,XUV400 EV,SUV,5,15.49,17.69,34.5,39.4,375,456,282,148,148,FWD,8.3,8.3,150,50,5-Star (Bharat),6,No,10.25,Yes
+Tata,Curvv EV,SUV-Coupe,5,17.49,22.24,45,55,430,502,365,148,165,FWD,8.6,8.6,160,40,5-Star (Bharat),6,Yes (Level 2),12.3,Yes
+Hyundai,Creta Electric,SUV,5,17.99,24.38,42,51.4,390,473,350,133,169,FWD,7.9,7.9,165,58,Not Tested,6,Yes,10.25,Yes
+MG,ZS EV,SUV,5,15.50,18.00,50.3,50.3,461,461,339,174,174,FWD,8.5,8.5,175,50,5-Star (Euro),6,Yes,10.1,Yes
+Mahindra,BE 6,SUV,5,18.90,27.65,59,79,557,683,449,228,282,RWD/AWD,6.7,6.7,200,30,5-Star (Bharat),7,Yes (Level 2),12.3,Yes
+Tata,Harrier EV,SUV,5,21.49,30.23,65,75,538,627,N/A,235,390,FWD/AWD,N/A,N/A,N/A,N/A,5-Star (ICE),6,Yes,N/A,Yes
+Mahindra,XEV 9e,SUV,5,21.90,31.25,59,79,542,656,N/A,228,282,RWD/AWD,6.8,6.8,200,20,5-Star (Bharat),7,Yes (Level 2),12.3,Yes
+BYD,Atto 3,SUV,5,24.99,33.99,49.9,60.5,468,521,N/A,201,201,FWD,7.3,7.3,160,50,5-Star (Euro),7,Yes (Level 2),12.8,Yes
+BYD,Seal,Sedan,5,41.00,53.15,61.4,82.6,510,650,N/A,201,523,RWD/AWD,3.8,3.8,180,24,Not Tested,N/A,Yes (Level 2),N/A,N/A
+Hyundai,Ioniq 5,SUV,5,46.30,46.30,72.6,72.6,631,631,N/A,215,215,RWD,7.4,7.4,185,18,5-Star (Euro),6,Yes (Level 2),12.3,No
+BMW,iX1,SUV,5,49.00,49.00,66.4,66.4,531,531,435,201,201,FWD,8.6,8.6,175,32,Not Tested,8,Yes (Level 1),10.7,Yes
+Tesla,Model Y,SUV,5,59.89,67.89,60,75,500,622,450,295,295,RWD,5.6,5.9,201,25,5-Star (NHTSA),8,Yes (Advanced),15.3,Yes
+Kia,EV6,Crossover,5,65.97,65.97,84,84,500.00,663,5.3,321,321,AWD,5.3,5.3,192,18,5-Star (Euro),8,Yes (Level 2),12.3,Advanced Driver Assistance Autonomous Features,Premium Audio Climate Control
+Mercedes-Benz,EQB,SUV,5/7,72.20,78.90,66.5,66.5,397,447,N/A,288,288,AWD,6.2,6.2,160,32,Not Tested,6,Yes,N/A,Yes
+BMW,iX,SUV,5,140.00,140.00,111.5,111.5,635,635,575,322,516,AWD,4.6,6.1,200,35,5-Star (Global NCAP),8,Yes (Level 2),14.9,Yes
+Audi,e-tron GT,Sedan,5,172.00,195.00,93.4,93.4,395.00,401,3.3,4.1,22.5,AWD,523,637,250,5-Star Euro NCAP,9,12.3,Yes,Autonomous Voice Command Smartphone Integration,Air Purifier Auto Climate
+Porsche,Taycan,Sedan,4,170.00,170.00,93.4,93.4,683,705,N/A,N/A,N/A,AWD,N/A,N/A,260,33,N/A,N/A,N/A,N/A,N/A
+BMW,i7,Sedan,5,205.00,250.00,101.7,101.7,625,625,596,536,650,AWD,4.7,4.7,250,34,Not Tested,7,Yes (Level 2),14.9,Yes
+Rolls-Royce,Spectre,Coupe,4,750.00,750.00,102,102,400.00,530,4.5,N/A,34.0,AWD,575,659,250,N/A,8,Multiple Digital Screens,Yes,Semi-Autonomous Luxury Features,Premium Audio Climate Control

@@ -53,7 +53,7 @@ app.add_middleware(
 )
 
 # Google Maps API Key with optimized connection pool
-GOOGLE_MAPS_API_KEY = os.getenv("GOOGLE_MAPS_API_KEY") or "AIzaSyAuJkWuskr3zqQcuxduEiI50zwlw_GoP04"
+GOOGLE_MAPS_API_KEY = os.getenv("GOOGLE_MAPS_API_KEY") or ""
 
 # Create Google Maps client with optimized settings for production
 session = requests.Session()
